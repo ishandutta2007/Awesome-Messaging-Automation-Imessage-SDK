@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Messaging-Automation-Imessage-SDK/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Messaging-Automation-Imessage-SDK?style=flat-square&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Messaging-Automation-Imessage-SDK/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Messaging-Automation-Imessage-SDK?style=flat-square&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Messaging-Automation-Imessage-SDK/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Messaging-Automation-Imessage-SDK?style=flat-square&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Messaging-Automation-Imessage-SDK/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -65,9 +65,9 @@ The following hosted platforms provide developer APIs, omnichannel business mess
 
 ## 💻 Open-Source Repositories & SDKs
 
-The following open-source frameworks, reverse-engineered bridges, telecom daemons, and developer SDKs power self-hosted and programmable messaging infrastructures. Repositories are ordered in descending order by GitHub star count.
+The following open-source frameworks, reverse-engineered bridges, telecom daemons, and developer SDKs power self-hosted and programmable messaging infrastructures. Repositories are ordered in descending order by GitHub Stars_Count.
 
-| 📦 Repository & Project | 🌟 GitHub Stars Badge | 💻 Tech Stack | 📖 Description & Capabilities |
+| 📦 Repository & Project | 🌟 GitHub_Stars_Badge | 💻 Tech Stack | 📖 Description & Capabilities |
 | :--- | :--- | :--- | :--- |
 | **[openclaw/openclaw](https://github.com/openclaw/openclaw)** | [![Stars](https://img.shields.io/github/stars/openclaw/openclaw?style=social&color=white)](https://github.com/openclaw/openclaw/stargazers) | TypeScript / Python | Autonomous AI agent runtime providing native macOS iMessage integration alongside WhatsApp, Telegram, Discord, and system automation tools. |
 | **[n8n-io/n8n](https://github.com/n8n-io/n8n)** | [![Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers) | TypeScript / Node.js | Source-available visual automation workflow engine with deep connectors for Twilio SMS, iMessage webhooks, Matrix events, and LangChain LLM nodes. |
